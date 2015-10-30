@@ -1,8 +1,8 @@
 {
   "name": "hubot-bible-api",
   "description": "Teach Hubot to access bible-api.com and display Bible passages",
-  "version": "1.0.3",
-  "author": "Brendan <brendan.berkley@gmail.com>",
+  "version": "1.0.4",
+  "author": "Brendan <me@brendanberkley.com>",
   "license": "BSD-3-Clause",
 
   "keywords": "hubot, hubot-scripts, bible",

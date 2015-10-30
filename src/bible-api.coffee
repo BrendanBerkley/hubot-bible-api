@@ -18,7 +18,7 @@
 # hubot bible <optional /translation> <book chapter:verse>
 #
 # Author:
-# brendanberkley
+# Brendan <me@brendanberkley.com>
 
 module.exports = (robot) ->
   # regex inspired by 
