@@ -3,7 +3,7 @@
   "description": "Teach Hubot to access bible-api.com and display Bible passages",
   "version": "1.0.1",
   "author": "Brendan <brendan.berkley@gmail.com>",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
 
   "keywords": "hubot, hubot-scripts, bible",
 
