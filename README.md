@@ -1,6 +1,6 @@
 # hubot-bible-api
 
-Access Tim Morgan's [bible-api.com](http://bible-api.com/) to display Bible passages
+Use Hubot to access Tim Morgan's [bible-api.com](http://bible-api.com/) to display Bible passages
 
 See [`src/bible-api.coffee`](src/bible-api.coffee) for documentation. Also, visit [bible-api.com](http://bible-api.com/) to get a more complete sense of how you can query passages.
 

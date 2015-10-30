@@ -1,6 +1,6 @@
 {
   "name": "hubot-bible-api",
-  "description": "Access Tim Morgan's bible-api.com to display Bible passages",
+  "description": "Teach Hubot to access bible-api.com and display Bible passages",
   "version": "1.0.0",
   "author": "Brendan <brendan.berkley@gmail.com>",
   "license": "MIT",
